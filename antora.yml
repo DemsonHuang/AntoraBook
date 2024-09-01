@@ -1,0 +1,11 @@
+name: clangbook
+version: '24.08.31'
+title: CLangBook
+display_version: 'CLangBook 24.08.31'
+# prerelease: true
+# start_page: clangbook.adoc
+# asciidoc:
+#   attributes:
+#     table-caption: Data Set
+nav:
+- modules/ROOT/nav.adoc

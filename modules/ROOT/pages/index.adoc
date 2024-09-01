@@ -1,0 +1,7 @@
+= C 语言笔记
+Demson Huang <demson1314@gmail.com>
+:description: CLangBook：一本C语言基础学习笔记，作者：Demson，于2024年9月1号开始写作。
+:keywords: C语言基础学习笔记, CLangBook
+
+:leveloffset: 1
+include::sub.pages/chapter001.adoc[]

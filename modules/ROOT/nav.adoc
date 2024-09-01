@@ -1,0 +1,2 @@
+* xref:index.adoc[]
+** xref:sub.pages/chapter001.adoc[初识 C 语言]
